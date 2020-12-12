@@ -35,5 +35,3 @@ Task: Classifying Bangla text by the user's personality traits.
 
 Given a user-generated Bangla text, a system needs to determine the most representative personality class for this text. Standard evaluation measures including macro averages recall, precision, F1 scores, and accuracy is used to estimate the overall system performances. We consider the F1 score, macro averages across all five personality classes as the primary evaluation measure for this task.
 
-
-
