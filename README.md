@@ -27,7 +27,7 @@ The details statistic of the dataset is shown below:
 | Extroversion | 628  | 502   | 126  |
 | Neuroticism | 646  | 516   | 130  |
 | Openness | 687  | 549   | 138  |
-| Total | 3000  | 2397   | 603  |
+| Total | 3000  | 2397   | 607  |
 
 # Task Formulation
 The major goal of the personality traits detection task is to analyze the content of the informal Bangla texts and categorize them into the most representative personality traits class. Therefore, we cast our personality traits detection as a multi-class classification problem and labels each Bangla text to the corresponding personality class. The task is formally defined as follows: 
